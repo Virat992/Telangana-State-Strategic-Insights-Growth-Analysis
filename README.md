@@ -6,6 +6,7 @@ This project seeks to examining a real life dataset provided by the government o
 - Stamp Registration
 - Vehicle Sales
 - TS-IPass 
+
 The objectives include understanding dataset attributes, detecting trends, identifying growth opportunities, exploring inter-departmental correlations, and presenting the overall state growth through visuals like shape maps, aiding strategic decision-making for the government of Telangana.
 
 ### Methods Used

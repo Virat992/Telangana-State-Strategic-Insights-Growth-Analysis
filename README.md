@@ -1,5 +1,6 @@
 # Strategic Insights & Growth Analysis For The Government of Telangana
 ## by Virat Gajjar
+Video Presentation : (https://youtu.be/fmxss8F0lAU?si=mOMDNkaPFHIZk8vS)
 
 # Project Overview
 This project seeks to examining a real life dataset provided by the government of telangana and providing strategic insights and growth analysis in three key areas which are:

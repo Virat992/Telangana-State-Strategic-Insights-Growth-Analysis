@@ -1,8 +1,8 @@
-# Stretigic Insights & Growth Analysis For The Government of Telangana
+# Strategic Insights & Growth Analysis For The Government of Telangana
 ## by Virat Gajjar
 
 # Project Overview
-This project seeks to examining a real life dataset provided by the government of telangana and providing stretigic insights and growth analsis in three key areas which are:
+This project seeks to examining a real life dataset provided by the government of telangana and providing strategic insights and growth analysis in three key areas which are:
 - Stamp Registration
 - Vehicle Sales
 - TS-IPass 
